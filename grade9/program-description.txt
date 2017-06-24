@@ -1,6 +1,6 @@
 The following programs were added in grade 9. They are organized categorically:
  
- <b> Input and Output </b>
+Input and Output
   1. Hyphenate Full Name
   2. Pythagoras' Theorem 
   3. Digit identification 
