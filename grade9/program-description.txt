@@ -7,3 +7,13 @@ Input and Output
   4. Initialize name
   5. Cow and Chicken Legs
  
+Conditionals and Loops:
+  1. Calculator using switch statements
+  2. Choose Your Own Adventure
+  3. Number guessing game 
+  4. Reverse number guessing game
+  5. Do-while program
+  6. Up or down addition program
+  7. For loop challenges
+  8. Random number generator
+  9. While loop challlenges
