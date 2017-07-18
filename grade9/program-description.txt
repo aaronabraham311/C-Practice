@@ -15,4 +15,4 @@ Conditionals and Loops:
   5. Do-while program
   6. Up or down addition program
   7. Random number generator
-  8. While loop challlenges
+  8. While loop reverse pyramid
