@@ -14,6 +14,5 @@ Conditionals and Loops:
   4. Reverse number guessing game
   5. Do-while program
   6. Up or down addition program
-  7. For loop challenges
   8. Random number generator
   9. While loop challlenges
