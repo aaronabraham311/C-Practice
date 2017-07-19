@@ -18,16 +18,15 @@ Conditionals and Loops:
   8. While loop reverse pyramid
 
 Functions:
-  1. 2 Spring
-  2. 2D Motion
-  3. Bad Decomposition Debug
-  4. Calculator
-  5. Collision Program
-  6. Distance Function
-  7. Function Assignment
-  8. Function Challenges #1
-  9. Function Challenges #2
-  10. Line Equation Program
-  11. Power Program
-  12. Spring Motion
-  13. Velocity and Acceleration
+  1. 2D Motion
+  2. Bad Decomposition Debug
+  3. Calculator
+  4. Collision Program
+  5. Distance Function
+  6. Function Assignment
+  7. Function Challenges #1
+  8. Function Challenges #2
+  9. Line Equation Program
+  10. Power Program
+  11. Spring Motion
+  12. Velocity and Acceleration
