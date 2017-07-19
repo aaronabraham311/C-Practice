@@ -16,3 +16,18 @@ Conditionals and Loops:
   6. Up or down addition program
   7. Random number generator
   8. While loop reverse pyramid
+
+Functions:
+  1. 2 Spring
+  2. 2D Motion
+  3. Bad Decomposition Debug
+  4. Calculator
+  5. Collision Program
+  6. Distance Function
+  7. Function Assignment
+  8. Function Challenges #1
+  9. Function Challenges #2
+  10. Line Equation Program
+  11. Power Program
+  12. Spring Motion
+  13. Velocity and Acceleration
