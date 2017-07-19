@@ -1,7 +1,3 @@
-/* Aaron Abraham
- Programming 9 - Mr. Campbell
- Bad Decomposition Debug */
-
 #include <iostream>
 
 using namespace std;
