@@ -1,8 +1,3 @@
-/* Aaron Abraham
- Dec. 3, 2015
- Programming 9 - Random Number Generator */
-
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
