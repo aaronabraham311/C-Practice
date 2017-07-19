@@ -30,3 +30,15 @@ Functions:
   10. Power Program
   11. Spring Motion
   12. Velocity and Acceleration
+
+Arrays:
+  1. 2D Arrays
+  2. 2D Box Arrays
+  3. Array Algorithims
+  4. Dot Product
+  5. Drawing on a grid
+  6. Random array list
+  7. Student grade program
+  8. Tic Tac Toe
+
+Final Project: Connect 4
