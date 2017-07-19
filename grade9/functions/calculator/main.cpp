@@ -1,7 +1,3 @@
-/* Aaron Abraham
- Mr. Campbell - Programming 9
- Calculator Project */
-
 // Includes libraries and header file
 #include <iostream>
 #include "Aaron_Header.hpp"
