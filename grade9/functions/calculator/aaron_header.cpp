@@ -1,11 +1,3 @@
-//
-//  Aaron_Source.hpp
-//  Calculator Project
-//
-//  Created by Aaron Abraham on 2016-05-26.
-//  Copyright © 2016 Aaron Abraham. All rights reserved.
-//
-
 #ifndef Aaron_Source_hpp
 #define Aaron_Source_hpp
 
