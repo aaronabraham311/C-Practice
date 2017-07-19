@@ -1,7 +1,3 @@
-/* Aaron Abraham
-Programming 9 - Mr.Campbell
-2D Motion Program */
-
 #include <fstream>
 #include <iostream>
 
