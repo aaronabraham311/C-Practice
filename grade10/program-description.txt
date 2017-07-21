@@ -1,0 +1,15 @@
+The following programs were added in grade 10. They are organized categorically:
+
+Structures:
+    1. Student Grades
+    2. Election Counting
+    3. Student Roll
+    4. Student Grades with Functions
+
+Objects and Classes:
+
+Iterative Algorithms
+
+File Handling:
+
+Final Project: Car Repair Business
