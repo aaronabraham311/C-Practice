@@ -1,10 +1,11 @@
 The following programs were added in grade 10. They are organized categorically:
 
 Structures:
-    1. Student Grades
-    2. Election Counting
-    3. Student Roll
-    4. Student Grades with Functions
+    1. Mailbox
+    2. Student Grades
+    3. Election Counting
+    4. Student Roll
+    5. Student Grades with Functions
 
 Objects and Classes:
 
