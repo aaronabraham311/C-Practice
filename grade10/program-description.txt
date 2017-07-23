@@ -8,6 +8,18 @@ Structures:
     5. Student Grades with Functions
 
 Objects and Classes:
+    1. Student Grades
+    2. Candidate Centers
+    3. Candy Dispenser
+    4. Travel Agency
+    5. Bookkeeper Program
+    6. Finding average
+    7. Sum of two classes
+    8. Operator definition
+    9. Object Calculator
+    10. Wardrobe program
+    11. Student Grades - Inheritance
+    12. 
 
 Iterative Algorithms
 
