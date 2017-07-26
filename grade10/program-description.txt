@@ -19,7 +19,9 @@ Objects and Classes:
     9. Object Calculator
     10. Wardrobe program
     11. Student Grades - Inheritance
-    12. 
+    12. Shape Area
+    13. Making Drinks
+    14. Rectangle and Square Area
 
 Iterative Algorithms
 
