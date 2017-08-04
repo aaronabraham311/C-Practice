@@ -24,7 +24,13 @@ Objects and Classes:
     14. Rectangle and Square Area
 
 Iterative Algorithms
-
+    1. Binary and Linear Search
+    2. Bubble Sort
+    3. Quick Sort
+    4. Recursive Functions
+    5. Selective Sort
+    6. Simple vs Bubble Sort
+    
 File Handling:
 
 Final Project: Car Repair Business
