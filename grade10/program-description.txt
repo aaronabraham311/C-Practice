@@ -29,8 +29,15 @@ Iterative Algorithms
     3. Quick Sort
     4. Recursive Functions
     5. Selective Sort
-    6. Simple vs Bubble Sort
     
 File Handling:
+    1. Student grades
+    2. Blank spaces counter
+    3. Vowel word counter
+    4. Digit seperation
+    5. Sentence counter
+    6. Capital vowel word seperator
+    
+Semi-final Project: OOP and Sorting Algorithms
 
 Final Project: Car Repair Business
