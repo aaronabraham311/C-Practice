@@ -4,6 +4,8 @@
 #include <string>
 #include <cctype>
 
+using namespace std;
+
 int main()
 {
   ifstream file ("MYbook.txt"); // Linking object with file and declaring variables
@@ -22,5 +24,5 @@ int main()
     
     cout << "Number of blank spaces in file: " << count << endl; // Outputting number of spaces
     
-    return;
+    return 0;
 }
