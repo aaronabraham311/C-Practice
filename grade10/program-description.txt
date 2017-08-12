@@ -37,6 +37,9 @@ File Handling:
     4. Digit seperation
     5. Sentence counter
     6. Capital vowel word seperator
+    7. 100 numbers output
+    8. Student profile maker
+    9. Alphabet counter
     
 Semi-final Project: OOP and Sorting Algorithms
 
