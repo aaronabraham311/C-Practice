@@ -1,0 +1,20 @@
+// Including libraries
+#include <string>
+#include <cctype>
+
+using namespace std;
+
+int main()
+{
+  ofstream notes ("NOTES.txt"); // Opening notes file in directory
+    
+  // Making loop to write numbers 1-100 into file
+  for (int i = 1; i <= 100; i ++)
+  {
+      notes << i << endl;
+  }
+     
+  notes.close(); // Closing file object */
+
+  return 0;
+}
